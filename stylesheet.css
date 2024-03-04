@@ -1,0 +1,47 @@
+body {
+    background-image: url("ranni.jpeg");
+    background-repeat: no-repeat;
+    background-size: 2400px;
+    background-position: center;
+}
+
+h1 {
+    text-align: center;
+    background-position: center;
+}
+
+li {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+
+.header, .links, .email, h1 {
+    background-image: url("paintstroke1.png");
+    background-repeat: no-repeat;
+}
+
+.header, h1 {
+    color: lightblue;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-size:25pt;
+    background-size: 450px;
+}
+
+#email {
+    background-size: 2000px;
+    padding-left: 10px;
+}
+
+a {
+    color: lightblue
+}
+
+a:hover {
+    color: green
+}
+
+div {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
